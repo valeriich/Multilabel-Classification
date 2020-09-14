@@ -1,2 +1,2 @@
-*.zip text  working-tree-encoding=UTF-16LE eol=CRLF
+*.zip text  working-tree-encoding=UTF-8 eol=CRLF
 *.zip diff
